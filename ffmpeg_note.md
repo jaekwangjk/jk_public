@@ -1,4 +1,4 @@
- /*  FFmpeg arguments */
+ #  FFmpeg arguments 
  
  
     // -y	Tells FFmpeg to overwrite the output file if it already exists.
@@ -23,4 +23,3 @@
     // -vcodec mpeg4	Tells FFmpeg to use its “mpeg4” encoder.
     
     // out.mp4	Specifies out.mp4 as the output file.
- /*  end ffmepg arguments */
