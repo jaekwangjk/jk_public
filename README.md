@@ -1,10 +1,10 @@
 # Jaekwang Kim's Public Code Library
-Welcome!
-This repository is to share my code with public.
-The result of which is published.
-Anyone is welcome to use with proper citation. 
-You can e-mail me for any question 
+Welcome!</br>
+This repository is to share my code with public.</br>
+The result of which is published.</br>
+Anyone is welcome to use with proper citation. </br>
+You can e-mail me for any question. </br>
 
-Email: jaekwangjk@gmail.com
-Website: https://jaekwangjk.github.io 
+Email: jaekwangjk@gmail.com </br>
+Website: https://jaekwangjk.github.io </br> 
  
