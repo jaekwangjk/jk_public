@@ -3,7 +3,7 @@ Generalized Newtonian Stokes Flow Solver
 based on Finite Element Method </br>
 
 This code has been used for research UQ Analysis of GNF flow simluation
-and publication related to this is JNNFM(2019) Vol 271, 104138.</br>
+and publication related to this is JNNFM(2019) Vol 271, 104138.
 "Uncertainty propagation in simulation predictions
 of generalized Newtonian fluid flows" 
 
