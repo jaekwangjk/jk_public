@@ -2,7 +2,7 @@
 Welcome!</br>
 This public repository is to share my numerical code with other researchers. 
 Codes are categorized by related publication.
-Everyone is welcome to use with proper citation. </br>
+Everyone is welcome to use with a proper citation. </br>
 You can e-mail me for any question. </br>
 
 Email: jaekwangjk@gmail.com </br>
