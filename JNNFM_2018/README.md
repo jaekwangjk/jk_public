@@ -1,7 +1,6 @@
 # JNNFM 2018 Read Me 
 Adjoint analysis of thixotropic fluid flow to rheological parameters.
-The forward and adjoint flow solution for a sphere is solved  
-using a Finite Element Method </br>
+The forward and adjoint flow solution for a sphere is solved using a Finite Element Method </br>
 
 This code has been used for research field sensitivity of thixotropic
 fluid flow and the related publication is JNNFM(2018) Vol 257, 72--82.
