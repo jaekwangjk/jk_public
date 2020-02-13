@@ -4,7 +4,7 @@ The forward and adjoint flow solution for a sphere is solved
 using a Finite Element Method </br>
 
 This code has been used for research field sensitivity of thixotropic
-fluid flow and the publication related to is JNNFM(2018) Vol 257, 72--82.
+fluid flow and the related publication is JNNFM(2018) Vol 257, 72--82.
 "Field sensitivity of flow predictions to rheological parameters" 
 
 </br>
