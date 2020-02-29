@@ -10,6 +10,6 @@ Applied Mathematical Modeling (2020), (accepted)
 The code is uses deal.II (v.8.5.0), 
 a open soucre libary for finite elemet analysis. For installation, please refer: https://www.dealii.org </br>
 
-It is built on the basic Newtonain Stokes solver.
+The code is built on the basic Newtonain Stokes solver.
 For information on this refer here: https://dealii.org/developer/doxygen/deal.II/step_22.html </br> 
 Feel free to contact the author, Jaekwang Kim (jaekwangjk@gmail.com), for any question. 
